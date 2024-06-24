@@ -1,0 +1,34 @@
+  body {
+  background-image: url(https://r4.wallpaperflare.com/wallpaper/186/380/857/your-name-sky-stars-kimi-no-na-wa-wallpaper-c23d2485e96a9cb94e087c867ffad681.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: background-color 0.5s ease;
+}
+
+.cold-weather {
+  background-image: url(https://r4.wallpaperflare.com/wallpaper/652/279/715/makoto-shinkai-kimi-no-na-wa-cityscape-wallpaper-a8f66d48b0a0dcb8a0ac613e6862e45a.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: background-color 0.5s ease;
+}
+
+.cool-weather {
+  background-image: url(https://r4.wallpaperflare.com/wallpaper/275/138/508/anime-japan-tenki-no-ko-city-weathering-with-you-hd-wallpaper-78b69d48d010fc8890fc71ce3842940a.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: background-color 0.5s ease;
+}
+
+.warm-weather {
+ background-image: url(https://r4.wallpaperflare.com/wallpaper/952/824/961/makoto-shinkai-kimi-no-na-wa-wallpaper-78d65dc8d060ccb8d07cd1cec8a2e4aa.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ transition: background-color 0.5s ease;
+}
+
+.hot-weather {
+  background-image: url(https://r4.wallpaperflare.com/wallpaper/451/601/98/kimi-no-na-wa-anime-landscape-forest-wallpaper-b900b8fd412a1dab6697e84fc01176ad.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: background-color 0.5s ease;
+}
